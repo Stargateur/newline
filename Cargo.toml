@@ -1,0 +1,14 @@
+[package]
+name = "newline"
+version = "0.1.0"
+authors = ["Antoine PLASKOWSKI <antoine.plaskowski@epitech.eu>"]
+edition = "2018"
+
+[dependencies]
+jetscii = "0.4"
+
+[dev-dependencies]
+itertools = "0.8"
+
+[features]
+benchmarks = []
